@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <style name="Theme.DeviceDefault.QuickSettings" parent="@style/Theme.DeviceDefault">
+    <!--style name="Theme.DeviceDefault.QuickSettings" parent="@style/Theme.DeviceDefault">
         <item name="colorPrimary">@color/primary_device_default_dark</item>
         <item name="colorPrimaryDark">@color/primary_dark_device_default_settings</item>
         <item name="colorSecondary">@color/secondary_device_default_settings</item>
@@ -310,5 +310,5 @@
         <item name="bottomLeftRadius">@dimen/config_dialogCornerRadius</item>
         <item name="topRightRadius">@dimen/config_dialogCornerRadius</item>
         <item name="topLeftRadius">@dimen/config_dialogCornerRadius</item>
-    </style>
+    </style-->
 </resources>

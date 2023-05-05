@@ -22,11 +22,6 @@
     <!-- The secondary text color if the text is on top of a dark background. -->
     <color name="notification_secondary_text_color_dark">#b3e5e5e5</color>
 
-    <color name="notification_default_color_dark">#ffe5e5e5</color>
-
-    <!-- The background color of a notification card. -->
-    <color name="notification_material_background_color">#ff151618</color> <!-- material_grey_900 -->
-
     <color name="primary_material_dark">#ff151618</color> <!-- material_grey_900 -->
     <color name="primary_material_settings">#ff151618</color> <!-- material_grey_900 -->
     <color name="primary_dark_material_dark">#ff0f1012</color>
